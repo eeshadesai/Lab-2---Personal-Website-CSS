@@ -1,0 +1,42 @@
+html {
+    background-color:#8dd8f3;
+    font-family:'Inconsolata',monospace;
+}
+
+h1{
+    font-family: 'Inconsolata',monospace;
+    text-align:center;
+    font-size:100px;
+    color:#741896
+}
+
+p {
+    text-align:center;
+    font-size:40px;
+    
+}
+
+.list {
+    text-align:center;
+    font-size:20px;
+    line-height:30px;
+}
+ul.myUL {
+    display:inline-block;
+    text-align:left;
+}
+
+.color {
+    color:#f83a3a
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.right{
+    float:right;
+}
+.left {
+    float:left;
+}

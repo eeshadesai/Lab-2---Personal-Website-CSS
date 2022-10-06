@@ -1,0 +1,30 @@
+div.center {
+    text-align:center;
+}
+.space {
+    line-height:4;
+}
+
+.font {
+    font-family: 'Crimson Text',serif;
+}
+
+.subheading {
+    color:rgb(42, 0, 250);
+    font-weight:bold;
+    font-size:35px;
+    
+}
+
+.types {
+    text-align:center;
+    font-size:30px;
+    line-height:30px;
+    margin: 1px 20px;
+    border: 5px solid black
+
+}
+ul.UL {
+    display:inline-block;
+    text-align:left;
+}
